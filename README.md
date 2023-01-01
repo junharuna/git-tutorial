@@ -1,2 +1,1 @@
 # Gitチュートリアル
-  -feature-A
